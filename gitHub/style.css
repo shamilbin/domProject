@@ -157,7 +157,7 @@ button:hover {
   background-color: var(--primary-dark);
 }
 
-/* Stats */
+
 .stats {
   display: flex;
   gap: 15px;
@@ -307,7 +307,7 @@ button:hover {
   border-radius: var(--border-radius);
 }
 
-/* Responsive design for mobile devices */
+
 @media (max-width: 600px) {
   .profile-header {
     flex-direction: column;
